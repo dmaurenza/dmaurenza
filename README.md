@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou'm Daniel Maurenza</h1>
+<h1 align="center">Olá 👋, Eu sou Daniel Maurenza</h1>
 <h3 align="center">Um biólogo apaixonado por atividades em montanhas</h3>
 
 - 🔭 Atualmente estou trabalhando com análises de dados no [Centro Nacional de Conservação da Flora](https://cncflora.jbrj.gov.br/)
